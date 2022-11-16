@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-boot-et/booting-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-et/booting-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-et/fizz-buzz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-et/fizz-buzz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-et/room-cleaner-notifier/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-et/room-cleaner-notifier/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-et/room-clr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-et/room-clr/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-et/room-web-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-et/room-web-app/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
